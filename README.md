@@ -1,4 +1,4 @@
-# Transfer-Learning-Deep-Neural-Network-UNet-ResNet-W
+# Deep_Transfer_Learning
 Motivation:  I create this repository for my independent study of deep learning applications using UNet, ResNet and WikiText-103.  
 The transfer learning method achieves State-of-the-Art result for multi-class image classification, image segmentation, object detection, image regression, sentiment analysis and more applications.
 
